@@ -1,0 +1,16 @@
+.title{
+    font-family:Poppins,sans-serif;
+    text-transform: uppercase;
+    font-size: 3rem;
+    text-decoration: none;
+    font-style: italic;
+    padding:20px
+}
+.divider{
+    color:black
+}
+@media(max-width:900px)
+{.title{
+    font-size:2rem;
+}
+}
